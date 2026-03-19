@@ -41,4 +41,5 @@ This project aims to answer key business questions:
 <p>•	Data Modeling & DAX – KPI calculations and measures
 
 <h2>Dashboard Preview</h2>
+
 ![image alt](https://github.com/MKCHLakvindi/HR-Analytics-Dashboard-PowerBI/blob/39719ef6beacdec72c3590d7e9ec994a8c419118/Capture.PNG)

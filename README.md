@@ -1,4 +1,4 @@
-# HR Analytics Dashboard - Power BI
+# HR Analytics Dashboard | Power BI
 Power BI dashboard analyzing employee attrition and HR metrics
 
 <h2>Overview</h2>
